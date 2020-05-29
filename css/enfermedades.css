@@ -1,0 +1,170 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+/* Estilos Para el Tab*/
+.section__card{
+    margin-top: 80px;
+
+}
+
+.section__card h1{
+    color: orange;
+    text-shadow: 3px 7px 12px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    font-weight: bold;
+}
+
+.section__card p{
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.tabs__cont{
+    margin-bottom: 15px;
+}
+
+.tabs__cont ul{
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+}
+
+.tabs__cont ul li{
+    padding: 0 15px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-left: 1px solid #cccccc;
+    border-right: 1px solid #cccccc;
+
+}
+
+.section__card .tab_card p{
+    text-align: left;
+}
+
+
+
+.activo{
+    background-color: orange;
+    color: white;
+    border-left: 1px solid #cccccc;
+    border-right: 1px solid #cccccc;
+}
+
+/* Estilos para el Footeer*/
+.foot{
+    margin-top: 90px;
+    text-align: center;
+    background-color:#1e1d1c;
+    
+  }
+
+  .foot .conten__form{
+    padding: 100px 0;
+  }
+
+  .foot h1{
+    font-size: 35px;
+    color: white;
+    margin: 0;
+    margin-bottom: 18px;
+  }
+
+  .foot hr{
+    width: 15%;
+    text-align: center;
+    border: 3px solid orange; 
+    margin: 0;
+    margin: 0 auto;
+    margin-bottom: 18px;
+  }
+
+  .foot p{
+    color: rgba(255, 255, 255, 0.7);
+    margin: 0;
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  .foot form{
+    width: 30%;
+    margin: 0 auto;
+    padding: 15px;
+  }
+
+
+  .foot form input[type="email"]{
+    width: 88%;
+    background-color: white;
+    padding: 0 10px;
+    border: none;
+    outline: none;
+    margin-bottom: 18px;
+  }
+
+  .foot form input[type="submit"]{
+    width: 93%;
+    background-color: orange;
+    color: white;
+    padding: 14px 0;
+    outline: none;
+    border: none;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+    box-shadow: 0 0 3px orange;
+    cursor: pointer;
+    transition: 0.56s all;
+  }
+
+  .foot form input[type="submit"]:hover{
+
+    background-color: rgba(255, 166, 0, 0.205);
+    color: orange;
+    border: 1px solid orange;
+
+  }
+
+  .foot .contac{
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.32);
+  }
+  .foot .contac .container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    
+  }
+
+  .foot .contac p{
+    padding: 0;
+    margin: 0;
+  }
+
+  .foot ul li{
+    display: inline-block;
+    margin: 0 15px;
+    font-size: 25px;
+    color: #666666;
+  }
+  .foot ul{
+    padding: 0;
+    margin: 0;
+  }
+
+  .foot ul li i
+  {
+    transition: 0.5s all;
+  }
+
+  .foot ul li i:hover{
+    color: orange;
+    cursor: pointer;
+  }
+

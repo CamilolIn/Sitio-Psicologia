@@ -1,0 +1,254 @@
+ /* Enfermedades */
+ @media (max-width:375px){
+
+    nav .brand-logo {
+
+        font-size: 1.1rem !important;
+        padding: 0;
+        right: -26px !important;
+        top: 0;        
+    }
+    
+    nav .brand-logo i{
+        display: block;
+        margin-right: 15px !important;
+    }
+
+    .slider__local h1{
+        font-size: 40px !important;
+    }
+
+    .slider__local h5{
+        font-size: 15px !important;
+    }
+
+    .sec__card{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+      }
+    
+      .sec__card .conte__image{
+        flex-basis: 100%;
+        flex-grow: 1;
+        height: 300px;
+        margin: 0px;
+      }
+
+      .sec__card .conte__image{
+        display: none;
+      }
+
+      .foot form{
+        width: 90% !important;
+        margin: 0 auto;
+        padding: 15px;
+      }
+
+      .foot .contac p{
+        padding: 0;
+        margin: 0;
+        font-size: 12px;
+      }
+
+      /* Enfermedades */
+
+      h2{
+          font-size: 30px !important;
+      }
+
+      .section__card h1{
+        color: orange;
+        text-shadow: 3px 7px 12px rgba(0, 0, 0, 0.2);
+        text-align: center;
+        font-weight: bold;
+        font-size: 25px;
+    }
+
+    .tabs__cont ul{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin: 30px 0;
+        padding: 69px 0;
+        border: none !important;
+    }
+    
+    .tabs__cont ul li{
+        padding: 5px 0px;
+        cursor: pointer;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-left: none !important;
+        border-right: none !important;
+
+    
+    }
+
+
+
+
+ }
+
+  /* Enfermedades */
+  @media (max-width:550px){
+
+    nav .brand-logo {
+
+        font-size: 1.1rem !important;
+        padding: 0;
+        right: -26px !important;
+        top: 0;        
+    }
+    
+    nav .brand-logo i{
+        display: block;
+        margin-right: 15px !important;
+    }
+
+    .slider__local h1{
+        font-size: 40px !important;
+    }
+
+    .slider__local h5{
+        font-size: 15px !important;
+    }
+
+    .sec__card{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+      }
+    
+      .sec__card .conte__image{
+        flex-basis: 100%;
+        flex-grow: 1;
+        height: 300px;
+        margin: 0px;
+      }
+
+      .sec__card .conte__image{
+        display: none;
+      }
+
+      .foot form{
+        width: 90% !important;
+        margin: 0 auto;
+        padding: 15px;
+      }
+
+      .foot .contac p{
+        padding: 0;
+        margin: 0;
+        font-size: 12px;
+      }
+
+      /* Enfermedades */
+
+      h2{
+          font-size: 20px !important;
+      }
+
+      .section__card h1{
+        color: orange;
+        text-shadow: 3px 7px 12px rgba(0, 0, 0, 0.2);
+        text-align: center;
+        font-weight: bold;
+        font-size: 25px;
+    }
+    
+    h1 {
+      font-size: 2.2rem;
+      line-height: 110%;
+      margin: 2.8rem 0 1.68rem 0;
+    }
+
+    .tabs__cont ul{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin: 30px 0;
+        padding: 69px 0;
+        border: none !important;
+    }
+    
+    .tabs__cont ul li{
+        padding: 5px 0px;
+        cursor: pointer;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-left: none !important;
+        border-right: none !important;
+
+    
+    }
+
+
+
+
+ }
+
+
+
+ @media (max-width:768px){
+
+    nav .brand-logo {
+        position: absolute;
+        color: #fff;
+        display: inline-block;
+        font-size: 15px;
+        padding: 0;
+
+    }
+    
+    nav .brand-logo i{
+        display: inline-block;
+        margin-right: 15px;
+    }
+
+    .slider__local h1{
+        font-size: 50px;
+    }
+
+    .slider__local h5{
+        font-size: 20px;
+    }
+
+    .sec__card{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+      }
+    
+      .sec__card .conte__image{
+        flex-basis: 100%;
+        flex-grow: 1;
+        height: 300px;
+        margin: 0px;
+      }
+
+      .sec__card .conte__image{
+        display: none;
+      }
+
+      .foot form{
+        width: 70%;
+        margin: 0 auto;
+        padding: 15px;
+      }
+
+      .foot .contac p{
+        padding: 0;
+        margin: 0;
+        font-size: 12px;
+      }
+
+ }
+
