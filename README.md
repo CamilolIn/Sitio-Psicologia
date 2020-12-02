@@ -3,7 +3,7 @@
     Este sitio es netamente Frontend. Es u sitio informativo acerca de la enfermedades mentales mas comunes en los humanos.
 </p>
 <img src="./ReadmeAssets/Home.JPG"></img>
-<p>Mira la demo: <a href="https://bienesraicescl.netlify.app/">Bienes Raices</a></p>
+<p>Mira la demo: <a href="https://psicologiaenfmentales.netlify.app/index.html">Bienes Raices</a></p>
 
 <h1>TECNOLOGIAS USADAS</h1>
 <ul>
