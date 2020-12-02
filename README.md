@@ -1,2 +1,15 @@
-# Sitio-Psicologia
-Sitio Web realizado con tecnologias front end como: HTML5, CSS3, JavaScript, Jquery, Materialize
+<h1>BIENES RAICES</h1>
+<p>
+    Este sitio es netamente Frontend. Es u sitio informativo acerca de la enfermedades mentales mas comunes en los humanos.
+</p>
+<img src="./ReadmeAssets/Home.JPG"></img>
+<p>Mira la demo: <a href="https://bienesraicescl.netlify.app/">Bienes Raices</a></p>
+
+<h1>TECNOLOGIAS USADAS</h1>
+<ul>
+    <li>HTML5</li>
+    <li>CSS3</li>
+    <li>MATERIALIZE</li>
+    <li>JAVASCRITP</li>
+    <li>JQUERY</li>
+</ul>
